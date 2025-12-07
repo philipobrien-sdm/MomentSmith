@@ -2,6 +2,9 @@
 # MomentSmith
 **Quietly organized chaos for the digital mind.**
 
+<img width="600" height="300" alt="Screenshot 2025-12-07 143111" src="https://github.com/user-attachments/assets/72c14f6d-199f-4376-bfc5-7daf94f8a3c0" />
+
+
 Ever feel like your brain is a browser with 500 tabs open, playing three different songs, while you try to write a single email?
 
 **MomentSmith** is a capture tool for thinkers, tinkerers, and the delightfully scattered. It takes your fleeting thoughts—text or voice—and uses Google's Gemini API to automatically classify, tag, and organize them into a visual mind map.
@@ -35,8 +38,14 @@ No more manual tagging. The AI detects if you are `Venting`, having a `Philosoph
 ### 🕸️ Dynamic Mind Map
 Watch your thoughts cluster together naturally. Use D3.js physics to visualize how your "Work Frustrations" are alarmingly close to your "Escape Plan" ideas.
 
+<img width="600" height="400" alt="Screenshot 2025-12-07 143219" src="https://github.com/user-attachments/assets/b8da7368-cff1-4fd7-8e75-2bf8f3d9c2c9" />
+
+
 ### 👁️ The Algorithm Mirror (Gemini 3 Pro)
 A gentle, unflinching reflection from your "Higher Self". It analyzes your cognitive patterns to reveal exactly how digital systems (social media, marketing engines, influence loops) perceive and extract value from you. It speaks truth with compassion, helping you reclaim agency from the machine.
+
+<img width="400" height="200" alt="Screenshot 2025-12-07 143301" src="https://github.com/user-attachments/assets/30c093ab-2c39-4383-8cef-87f030dbcf21" /> 
+<img width="400" height="200" alt="Screenshot 2025-12-07 143401" src="https://github.com/user-attachments/assets/e045ef42-19f7-427d-a084-226e0f17fa9c" />
 
 ### 📄 Full HTML Dossier
 Export your entire brain dump, including your Weekly Digest and Algorithm Profile, into a beautiful, standalone HTML report. Keep it forever. No cloud lock-in.
