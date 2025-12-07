@@ -1,0 +1,7 @@
+{
+  "name": "MomentSmith",
+  "description": "A moment-capture, insight-extraction, and personal mapping app for thinkers and tinkerers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
